@@ -17,11 +17,17 @@ Principal Investigator · <a href="https://comp-neuro.org">CNNC Lab</a> · Unive
 
 I study *how the brain computes the mind* — building mechanistic models of cortical circuits that bridge molecular biophysics, dynamical systems theory, and cognition. I lead the [Computational Neuroscience & Neural Computation](https://comp-neuro.org) group at the [Center for Neuroscience and Cell Biology](https://www.uc.pt/cnc), University of Coimbra.
 
-```
-Research: cortical microcircuits · heterosynaptic plasticity · dendritic computation
-          sequential rule learning · dynamical systems · NeuroAI
-Stack:    Python · PyTorch · JAX · NEST · Arbor · HPC (SLURM/MPI)
-```
+#### Research
+`cortical microcircuits` `heterosynaptic plasticity` `dendritic computation` `sequential rule learning` `dynamical systems` `NeuroAI`
+
+#### Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-A435F0?style=flat-square)
+![NEST](https://img.shields.io/badge/NEST_Simulator-4A9B3F?style=flat-square)
+![Arbor](https://img.shields.io/badge/Arbor-2D6EB5?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC-SLURM/MPI-555555?style=flat-square)
 
 ### Selected projects
 
